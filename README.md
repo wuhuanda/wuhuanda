@@ -1,4 +1,4 @@
-### Hi there，I'm [w6a](clovemu.com) 👋
+### Hi there，I'm [w6a](clovemu.com). 👋
 
 I'm currently learning front-end and anything interested.
 <!--
