@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there，I'm [w6a](clovemu.com) 👋
 
+I'm currently learning front-end and anything interested.
 <!--
 **wuhuanda/wuhuanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=wuhuanda&show_icons=true&theme=radical) 
+![wuhuanda's github stats](https://github-readme-stats.vercel.app/api?username=wuhuanda&show_icons=true&theme=tokyonight) 
 
